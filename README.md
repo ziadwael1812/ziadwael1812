@@ -26,15 +26,12 @@ I'm currently delving into:
 
 ## 🚀 My Projects
 
-*It would be great to list 2-4 of your top projects here. For each project, consider adding:*
-*   *A link to the repository (e.g., `[Project Name](link-to-repo)`)
-*   *A brief one-sentence description.*
-*   *Key technologies used.*
-*   *(Optional) A link to a live demo if available.*
+Here are some of the projects I'm proud of:
 
-*Example:*
-*   **[android-fitness-tracker](https://github.com/ziadwael1812/android-fitness-tracker)**: An Android app to track fitness activities using Kotlin, Jetpack Compose, and Google Fit API.
-*   **[microservice-ecommerce-platform](https://github.com/ziadwael1812/microservice-ecommerce-platform)**: E-commerce platform built with a microservice architecture using Spring Cloud and Docker.
+*   **[android-fitness-tracker](https://github.com/ziadwael1812/android-fitness-tracker)**: A native Android application for tracking fitness activities, built with Kotlin, Jetpack Compose, RoomDB, and integrating the Google Fit API.
+*   **[microservice-ecommerce-platform](https://github.com/ziadwael1812/microservice-ecommerce-platform)**: An e-commerce platform designed with a microservice architecture using Spring Boot, Spring Cloud, Docker, and demonstrating concepts like service discovery and fault tolerance.
+*   **[ecommerce-platform](https://github.com/ziadwael1812/ecommerce-platform)**: A full-stack e-commerce web application featuring product browsing, user authentication, and a shopping cart, built with Spring Boot (Java) for the backend and React for the frontend.
+*   **[My Software Engineering Portfolio](https://github.com/ziadwael1812/software-engineering-portfolio)**: A curated collection of my projects and skills. (Consider deploying this as a GitHub Pages site and linking to the live URL instead/as well!)
 
 ---
 
