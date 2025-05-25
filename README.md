@@ -31,12 +31,12 @@ Here are some of the projects I'm proud of:
 *   **[android-fitness-tracker](https://github.com/ziadwael1812/android-fitness-tracker)**: A native Android application for tracking fitness activities, built with Kotlin, Jetpack Compose, RoomDB, and integrating the Google Fit API.
 *   **[microservice-ecommerce-platform](https://github.com/ziadwael1812/microservice-ecommerce-platform)**: An e-commerce platform designed with a microservice architecture using Spring Boot, Spring Cloud, Docker, and demonstrating concepts like service discovery and fault tolerance.
 *   **[ecommerce-platform](https://github.com/ziadwael1812/ecommerce-platform)**: A full-stack e-commerce web application featuring product browsing, user authentication, and a shopping cart, built with Spring Boot (Java) for the backend and React for the frontend.
-*   **[My Software Engineering Portfolio](https://github.com/ziadwael1812/software-engineering-portfolio)**: A curated collection of my projects and skills. (Consider deploying this as a GitHub Pages site and linking to the live URL instead/as well!)
+*   **[My Learning Journey](https://github.com/ziadwael1812/My-Learning-Journey)**: A repository tracking my academic progress, coursework, and projects as I pursue my Computer Engineering degree.
 
 ---
 
 ## 📫 How to Reach Me
 
 *   **LinkedIn:** [www.linkedin.com/in/ZiadAboalmagd](https://www.linkedin.com/in/ZiadAboalmagd)
-*   **Portfolio:** [My Software Engineering Portfolio on GitHub](https://github.com/ziadwael1812/software-engineering-portfolio)
+*   **Portfolio & Learning Journey:** [My Learning Journey on GitHub](https://github.com/ziadwael1812/My-Learning-Journey)
 *   **Email:** ziadwael1812@gmail.com
