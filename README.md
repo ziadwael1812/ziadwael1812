@@ -37,6 +37,6 @@ Here are some of the projects I'm proud of:
 
 ## 📫 How to Reach Me
 
-*   **LinkedIn:** [Your LinkedIn Profile URL] *(<- Add your LinkedIn URL here)*
-*   **Portfolio:** [Your Portfolio URL (if you have one, perhaps your `software-engineering-portfolio` repo?)] *(<- Add URL or remove)*
-*   **Email:** [your.email@example.com] *(<- Add your email or remove if you prefer not to list it)*
+*   **LinkedIn:** [www.linkedin.com/in/ZiadAboalmagd](https://www.linkedin.com/in/ZiadAboalmagd)
+*   **Portfolio:** [My Software Engineering Portfolio on GitHub](https://github.com/ziadwael1812/software-engineering-portfolio)
+*   **Email:** ziadwael1812@gmail.com
