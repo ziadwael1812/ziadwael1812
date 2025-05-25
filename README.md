@@ -38,5 +38,4 @@ Here are some of the projects I'm proud of:
 ## 📫 How to Reach Me
 
 *   **LinkedIn:** [www.linkedin.com/in/ZiadAboalmagd](https://www.linkedin.com/in/ZiadAboalmagd)
-*   **Portfolio & Learning Journey:** [My Learning Journey on GitHub](https://github.com/ziadwael1812/My-Learning-Journey)
 *   **Email:** ziadwael1812@gmail.com
